@@ -1,6 +1,6 @@
-# Ananda — Website
+# Ananda Manifest & Affirmation — Website
 
-Static marketing + legal site for the Ananda app: homepage, Privacy Policy, and Terms of Use.
+Static marketing + legal site for the Ananda Manifest & Affirmation app: homepage, Privacy Policy, and Terms of Use.
 Published via GitHub Pages.
 
 ## Structure
@@ -26,6 +26,6 @@ Published via GitHub Pages.
 
 ## Linked from the app
 
-The Ananda app's Settings screen (`src/screens/SettingsScreen.tsx` in the `ananda-app` repo) links directly to
+The Ananda Manifest & Affirmation app's Settings screen (`src/screens/SettingsScreen.tsx` in the `ananda-app` repo) links directly to
 `privacy.html` and `terms.html` on this site's published URL — update those constants there if this repo or
 domain ever changes.
